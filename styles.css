@@ -1,0 +1,76 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+  font-family: 'Poppins', sans-serif;
+}
+html {
+  scroll-behavior: smooth;
+}
+.boas-vindas{
+    color: black;
+    padding-left: 42%;
+    font-size: 30px;
+  }
+ .Logo{
+    width: 70px;
+    margin-left: 10px;
+  }
+.Foto{
+  border-radius: 5000px;
+  margin-left: 10%;
+ }
+ body{
+    background-color: #d9ecfff1;
+    font-size: 12px;
+}
+h2{
+ color: rgb(128, 22, 214);
+ text-align: center;
+ font-size: 25px;
+ }
+ #Descricao{
+  margin-top: 3%;
+  margin-right: 20%;
+  margin-left: 20%;
+  font-size: 18px;
+ }
+ #Descricao1{
+  margin-right: 26%;
+  margin-left: 32%;
+  font-size: 22px;
+  margin-top: 50px;
+ }
+ hr{
+ margin-top: 200px;
+ margin-bottom: 75px;
+}
+nav a {
+  text-decoration: none;
+  color: #333;
+  padding: 10px 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 0 5px;
+  font-size: medium
+}
+nav a:hover {
+  background-color: #abbbf7;
+  transform: scale(1.05); 
+  transition: all 0.3s ease-in-out; 
+}
+header {
+  display: flex; 
+  justify-content: space-between; 
+  align-items: center; 
+}
+#contato{
+  font-size: medium;
+}
+footer{
+  padding-top: 5%;
+}
+  
+ 
+
+   
+  
